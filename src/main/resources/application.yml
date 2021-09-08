@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: temp
+  server:
+    max-request-size: 100GB
